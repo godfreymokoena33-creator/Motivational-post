@@ -1,8 +1,11 @@
+body{
+  background-color: black;
+}
 h1{
   font-family: "Libre Baskerville", serif;
+  text-transform: uppercase;
 }
 div{
-  background-color: black;
   color: white;
   width: 50%;
   margin: auto;
@@ -10,10 +13,8 @@ div{
 div, p, img{
   text-align: center;
 }
-h1{
-  text-transform: uppercase;
-}
 img{
   width: 100%; 
   border: 5px solid white;
+
 }
